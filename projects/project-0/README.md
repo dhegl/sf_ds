@@ -3,10 +3,10 @@
     <img src="https://raw.githubusercontent.com/dhegl/sf_ds/64c052f95af5d042844ed56f765c2cbb566d1680/main/static/medium.svg" alt="Онлайн-школа SkillFactory" width="160px" align="right" />
 </a>
 
-
-
 # Проект 0
 # *Угадай число*
+
+![Pithon 3.7 | 3.8](https://raw.githubusercontent.com/dhegl/sf_ds/5b85790c20deade02175e1651ec2a0b580117907/main/static/python_3.7-3.8.svg)
 
 ## Оглавление
 
