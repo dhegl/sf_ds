@@ -13,6 +13,14 @@
  │   │   ├── game.ipynb
  │   │   ├── game.py
  │   │   └── README.md
+ │   ├── project-1
+ │   │   ├── explore
+ │   │   │   ├── explore-a.ipynb
+ │   │   │   ├── explore-b.ipynb
+ │   │   │   └── README.md
+ │   │   ├── .gitignore
+ │   │   ├── headhunter_ds.ipynb
+ │   │   └── README.md
  │   └── README.md
  ├── .gitignore
  ├── LICENSE
