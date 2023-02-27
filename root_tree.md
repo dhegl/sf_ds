@@ -12,6 +12,7 @@
  │   │   │   └── README.md
  │   │   ├── game.ipynb
  │   │   ├── game.py
+ │   │   ├── requirements.txt
  │   │   └── README.md
  │   ├── project-1
  │   │   ├── explore
@@ -20,6 +21,11 @@
  │   │   │   └── README.md
  │   │   ├── .gitignore
  │   │   ├── headhunter_ds.ipynb
+ │   │   ├── requirements.txt
+ │   │   └── README.md
+ │   ├── project-2
+ │   │   ├── vacancies_ds.ipynb
+ │   │   ├── requirements.txt
  │   │   └── README.md
  │   └── README.md
  ├── .gitignore
