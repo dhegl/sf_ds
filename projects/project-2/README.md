@@ -68,7 +68,7 @@
 
 ##### На Colaboratory
 
-+   [Итоговый вариант презентации проекта в формате в Jupyter Notebook](https://colab.research.google.com/drive/1Qdz_CgNUFL2bL1sK2YOYpEUkVJkS026n)
++   [Итоговый вариант презентации проекта в формате в Jupyter Notebook](https://colab.research.google.com/github/dhegl/sf_ds/blob/main/projects/project-2/vacancies_ds.ipynb)
 
 
 ### Выводы:
