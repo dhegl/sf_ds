@@ -19,12 +19,22 @@
  │   │   │   ├── explore-a.ipynb
  │   │   │   ├── explore-b.ipynb
  │   │   │   └── README.md
+ │   │   ├── view
+ │   │   │   ├── explore-a.html
+ │   │   │   └── explore-b.html
  │   │   ├── .gitignore
  │   │   ├── headhunter_ds.ipynb
  │   │   ├── requirements.txt
  │   │   └── README.md
  │   ├── project-2
  │   │   ├── vacancies_ds.ipynb
+ │   │   ├── requirements.txt
+ │   │   └── README.md
+ │   ├── project-3
+ │   │   ├── view
+ │   │   │   └── sf-booking.eda.html
+ │   │   ├── sf-booking.eda.ipynb
+ │   │   ├── sf-booking.kaggle.ipynb
  │   │   ├── requirements.txt
  │   │   └── README.md
  │   └── README.md

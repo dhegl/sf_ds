@@ -8,6 +8,9 @@
 ~~~
   projects
   ├── project-0
+  ├── project-1
+  ├── project-2
+  ├── project-3
   ├── ...
   └── README.md
 ~~~
